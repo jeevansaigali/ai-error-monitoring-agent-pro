@@ -1,4 +1,4 @@
-# AI Error Monitoring Agent (Professional Edition)
+# AI Error Monitoring Agent
 
 This project demonstrates a polished, production-ready implementation of an AI-driven agent for log monitoring, anomaly detection, and remediation suggestion generation. It uses an IsolationForest model and provides hooks for integrating a language model. Structured as a real-world Python package with tests and a CLI.
 
